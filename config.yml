@@ -1,0 +1,6 @@
+template: Hello, %s!
+defaultName: charlie
+logging:
+  level: INFO
+  loggers:
+    org.example: DEBUG
